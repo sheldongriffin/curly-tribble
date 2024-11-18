@@ -1,7 +1,7 @@
 ---
 title: "Types of Nausea Explained"
 layout: default
-date: 2024-11-18
+date: 2024-11-17
 ---
 
 # {{ page.title }}
