@@ -7,6 +7,6 @@ title: "Home"
 
 Here is the Table of Contents:
 
-{% for chapter in site.chapters %}
-- [{{ chapter.title }}]({{ chapter.url }}) - {{ chapter.date | date: "%B %d, %Y" }}
+{% for chapter in site.chapters | sort: 'date' | sort: 'title' %}
+- [{{ chapter.title }}]({{ site.baseurl }}{{ chapter.url }}) - {{ chapter.date | date: "%B %d, %Y" }}
 {% endfor %}
