@@ -8,10 +8,9 @@ date: 2024-11-12
 
 **Question:**
 
-I'm gonna take off, but I'll have you leave me with this thought: Please talk to me about, I don't know, "amateur physicists" vs "the entire physics/science complex". It just struck me as amusing that I'm here, talking to you about things that:
-A: My 1st grade daughter could not comprehend (so they're a little tricky) but
-B: This would be SO foundation to "actual" physicists
-C: What's the point of people like me - people who will never become a physist, people who might not even ever run an expirment.. Why am I thinking about these things?!? To this level! And.. Again, per the above.. Like, what even IS "this level"? It's not wrong to say that it's not even like an iceberg in terms of visible vs not, it's more like "not even scratchign the surface", no? Hmm. Let's chart that out, in ascending knowledge.. 1. People who never think about physics even a little, though they know if you throw a ball up it will come back down 2. People who barely even think about phsyics but they did actually learn about it in school and remember that it's Newton's fault that the ball comes back down. 3. People who do want to think about physics and it's not enough that _Newton said_ it will come back down, we need to know WHY and HOW, but still, we're ages away from 4. Actual physisicts. people who are paid to think abotu it. 
+What is the role of amateur curiosity in a field as vast and specialized as physics? It’s fascinating to consider the layers of engagement with science: from those who never give physics much thought beyond observing that a ball thrown up must come down, to those who learned the basics in school and can name Newton as the culprit. Then there are the curious minds—people who, without formal training or experiments, still ponder the *why* and *how* of these principles. This curiosity, while far from professional expertise, often feels like scratching at the edge of something monumental, like staring at an iceberg and realizing the true depth lies unseen.
+
+Why do people who aren’t physicists—and likely never will be—spend time thinking about these things? What purpose does it serve to explore ideas that are foundational for experts but complex enough to stump a first grader? Is there intrinsic value in this level of curiosity, even when it doesn't lead to professional inquiry or new discoveries? Perhaps it's worth reflecting on what this kind of engagement reveals about the relationship between curiosity, knowledge, and the broader scientific community.
 
 **Answer:**
 
