@@ -1,0 +1,43 @@
+{
+    "name": "John Doe",
+    "date_of_birth": "1980-01-01",
+    "confirmed_diagnoses": [
+      {
+        "id": "low_testosterone",
+        "name": "Low Testosterone",
+        "diagnostic_evidence": "Confirmed via blood tests showing testosterone levels below the normal range.",
+        "treatment_plan": "Hormone replacement therapy (HRT) recommended or ongoing.",
+        "treated_and_compliant": true,
+        "related_symptoms": "None consciously experienced at this time."
+      },
+      {
+        "id": "high_blood_pressure",
+        "name": "High Blood Pressure (Hypertension)",
+        "diagnostic_evidence": "Confirmed via repeated blood pressure readings above 140/90 mmHg.",
+        "treatment_plan": "Prescribed antihypertensive medication and advised dietary/lifestyle changes.",
+        "treated_and_compliant": true,
+        "related_symptoms": "None consciously experienced at this time."
+      }
+    ],
+    "medications": [
+        {
+          "name": "Testosterone Replacement Therapy",
+          "dosage": "100mg weekly",
+          "start_date": "2023-01-01",
+          "applicable_diseases": ["low_testosterone"]
+        },
+        {
+          "name": "Lisinopril",
+          "dosage": "10mg daily",
+          "start_date": "2023-06-01",
+          "applicable_diseases": ["high_blood_pressure"]
+        },
+        {
+          "name": "Multivitamin",
+          "dosage": "1 tablet daily",
+          "start_date": "2022-01-01",
+          "applicable_diseases": []
+        }
+    ]
+  }
+  

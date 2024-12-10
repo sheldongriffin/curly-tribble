@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: my-fancy-layout
 title: "Home"
 ---
 
@@ -7,6 +7,7 @@ title: "Home"
 
 Here is the Table of Contents:
 
-{% for chapter in site.chapters | sort: 'date' | sort: 'title' %}
+{% assign sorted_chapters = site.chapters | sort: 'date' | reverse %}
+{% for chapter in sorted_chapters %}
 - [{{ chapter.title }}]({{ site.baseurl }}{{ chapter.url }}) - {{ chapter.date | date: "%B %d, %Y" }}
 {% endfor %}
